@@ -33,3 +33,7 @@ class Command:
         "COMMAND_UPLOAD_LOG_FILE",
         "log"
     )
+    MSG = get_config(
+        "COMMAND_MSG",
+        "msg"
+    )
