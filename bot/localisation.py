@@ -22,15 +22,15 @@ class Localisation:
     
     RCHD_TG_API_LIMIT = "Yuklandi {} soniyada.\nFayl hajmi topildi: {}\nKechirasiz, maksimal cheklov 2gb"
     
-    COMPRESS_SUCCESS = "📥 Yuklandi in {}\n\n📀 Siqildi {}\n\n📤 Yuborildi {}\n\nKanalim: @Azizbek_03"
+    COMPRESS_SUCCESS = "📥 Yuklandi {}\n\n📀 Siqildi {}\n\n📤 Yuborildi {}\n\nKanalim: @Azizbek_03"
 
     COMPRESS_PROGRESS = "⏳ Vaqt: {}\n🚀 Progress: {}%"
 
     SAVED_CUSTOM_THUMB_NAIL = "Qo‘shimcha video / fayl thumnail saqlandi. Bu rasm video / file uchun ishlatiladi."
     
-    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Qo'chimcha humbnail tozalandi"
+    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Qo'chimcha thumbnail tozalandi"
     
-    FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media uvofaqqiyatli tozalandi"
+    FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media muvofaqqiyatli tozalandi"
     
     SAVED_RECVD_DOC_FILE = "✅ Muvofaqqiyatli yuklandi"
     
