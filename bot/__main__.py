@@ -44,7 +44,7 @@ if __name__ == "__main__" :
     if not os.path.isdir(sessions):
         os.makedirs(sessions)
     app = Client(
-        "SGVideoCompressBot",
+        "testerloggerkorbot",
         bot_token=TG_BOT_TOKEN,
         api_id=APP_ID,
         api_hash=API_HASH,
