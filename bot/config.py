@@ -21,7 +21,7 @@ class Config(object):
     BOT_USERNAME = get_config("BOT_USERNAME")
     MAX_FILE_SIZE = 2097152000
     TG_MAX_FILE_SIZE = 2097152000
-    FREE_USER_MAX_FILE_SIZE = 2097152000
+    FREE_USER_MAX_FILE_SIZE = 5152000
     # default thumbnail to be used in the videos
     DEF_THUMB_NAIL_VID_S = get_config("DEF_THUMB_NAIL_VID_S", "https://placehold.it/90x90")
     # proxy for accessing youtube-dl in GeoRestricted Areas
