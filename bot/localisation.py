@@ -22,7 +22,7 @@ class Localisation:
     
     RCHD_TG_API_LIMIT = "Yuklandi {} soniyada.\nFayl hajmi topildi: {}\nKechirasiz, maksimal cheklov 2gb"
     
-    COMPRESS_SUCCESS = "📥 Yuklandi {}\n\n📀 Siqildi {}\n\n📤 Yuborildi {}\n\nBu joyda sizni reklamangiz bo'lishi mumkin edi 🙃"
+    COMPRESS_SUCCESS = "📥 Yuklandi {}\n\n📀 Siqildi {}\n\n📤 Yuborildi {}\n\nSifatli video siquvchi botlar @videosiquvchi1bot @videosiquvchi2bot @videosiquvchi3bot"
 
     COMPRESS_PROGRESS = "⏳ Vaqt: {}\n🚀 Progress: {}%"
 
